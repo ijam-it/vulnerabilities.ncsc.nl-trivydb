@@ -1,0 +1,14 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "components": [
+    {
+      "type": "library",
+      "bom-ref": "gcc-4.7-trusty-source",
+      "name": "gcc-4.7",
+      "version": "4.7.3-7ubuntu3",
+      "purl": "pkg:deb/ubuntu/gcc-4.7@4.7.3-7ubuntu3?arch=source"
+    }
+  ]
+}
